@@ -1,6 +1,14 @@
 # dotfiles-example
 
 ## Usage
+### Clone this repository
+
+```sh
+mkdir -p ~/src/github.com/yinm
+cd ~/src/github.com/yinm
+git clone git@github.com:yinm/dotfiles-example.git
+```
+
 ### Install packages
 
 ```sh
