@@ -1,0 +1,4 @@
+brew 'fish'
+brew 'ghq'
+brew 'peco'
+brew 'tig'
