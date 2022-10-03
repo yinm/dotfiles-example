@@ -4,8 +4,8 @@
 ### Clone this repository
 
 ```sh
-mkdir -p ~/src/github.com/yinm
-cd ~/src/github.com/yinm
+mkdir -p ~/ghq/github.com/yinm
+cd ~/ghq/github.com/yinm
 git clone git@github.com:yinm/dotfiles-example.git
 ```
 
